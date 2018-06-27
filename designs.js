@@ -50,7 +50,6 @@ $('#sizePicker').submit(function makeGrid(evt) {
     $('.cells').click( function(event) { 
         color = $('#colorPicker').val();
         $(event.target).css('background', color);
-        $(event.target).toggle();
     });
 });
 

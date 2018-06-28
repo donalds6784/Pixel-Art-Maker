@@ -4,6 +4,12 @@
 Final Project Url link for Pixel-Art Maker App <https://donalds6784.github.io/Pixel-Art-Maker>.
 
 --------------------------------------------------------
+
+##functionality
+The application enables the user to select a range of table rows and columns in order to create a range of cells.
+
+The user is then able to pick a color he prefers to use and use it while interacting with the cells.
+
 --------------------------------------------------------
 ## Table of Contents
 

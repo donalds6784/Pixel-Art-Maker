@@ -1,9 +1,14 @@
 # Pixel Art Maker Project
 
+## Explore the final project here.
+[Final Project Url link for Pixel-Art Maker App] (https://donalds6784.github.io/Pixel-Art-Maker/).
+
 ## Table of Contents
 
 * [Instructions](#instructions)
 * [Contributing](#contributing)
+
+=======================================================
 
 ## Instructions
 
@@ -14,6 +19,3 @@ For specific, detailed instructions, look at the project instructions in the [Ud
 ## Contributing
 
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
-
-## Explore the final project here.
-[Final Project Url link for Pixel-Art Maker App] (https://donalds6784.github.io/Pixel-Art-Maker/)

@@ -1,14 +1,14 @@
 # Pixel Art Maker Project
 
 ## Explore the final project here.
-[Final Project Url link for Pixel-Art Maker App] (https://donalds6784.github.io/Pixel-Art-Maker/).
+Final Project Url link for Pixel-Art Maker App <https://donalds6784.github.io/Pixel-Art-Maker>.
 
+--------------------------------------------------------
+--------------------------------------------------------
 ## Table of Contents
 
 * [Instructions](#instructions)
 * [Contributing](#contributing)
-
-=======================================================
 
 ## Instructions
 
